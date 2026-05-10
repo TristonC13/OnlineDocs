@@ -7,7 +7,7 @@ Introduction
 
 **COLLADA**: Short for **COLLA**borative **D**esign **A**ctivity. COLLADA is emerging as the format for interchanging models between DCC(digital-content-creation) applications. The file format is .dae (**d**igital **a**sset **e**xchange). The data is stored in an open standard XML schema, which means it can be read and tweaked manually if need be.
 
-**DTS**: Short for **D**ynamics **F**ree **S**pace, is the native, binary file format used by Torque to store shape (geometry, LOD, bone, and animation) data. DTS exporters exist for several 3D modeling packages such as 3ds Max, Maya, XSI, Blender, and Milkshape3D.
+**DTS**: Short for **D**ynamix **T**hree **S**pace, is the native, binary file format used by Torque to store shape (geometry, LOD, bone, and animation) data. DTS exporters exist for several 3D modeling packages such as 3ds Max, Maya, XSI, Blender, and Milkshape3D.
 
 **DIF**: Short for **D**ynamix **I**nterior **F**ile, this is another proprietary format developed during the Tribes days and has survived through Torque. DIFs (also called Interiors) are primarily used for buildings or other enclosing structures. While the binary space partition (BSP) functionality is useful, using DTS or COLLADA files with Polysoup collision enabled is the preferred method and will save you time on asset generation. 
 
